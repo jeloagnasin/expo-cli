@@ -49,6 +49,7 @@
   },
   "resolutions": {
     "@types/webpack": "4.41.18",
-    "hermes-engine": "0.0.0"
+    "hermes-engine": "0.0.0",
+    "coa": "2.0.2"
   }
 }
